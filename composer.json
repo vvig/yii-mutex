@@ -1,15 +1,13 @@
 {
-	"name": "resurtm/yii-mutex",
+	"name": "vvig/yii-mutex",
 	"description": "Yii 2 mutex backported to Yii 1.*.",
 	"keywords": ["yii", "extension", "component", "mutex", "lock"],
-	"homepage": "https://github.com/resurtm/yii-mutex",
+	"homepage": "https://github.com/vvig/yii-mutex",
 	"type": "yii-extension",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "resurtm",
-			"email": "resurtm@gmail.com",
-			"homepage": "http://resurtm.com"
+			"name": "vvig"
 		}
 	],
 	"minimum-stability": "dev",
